@@ -1,27 +1,11 @@
 {
   "users": [
     {
-      "id": "d05c",
-      "firstName": "manish",
-      "lastName": "mahale",
-      "email": "manishmahale53@gmail.com",
-      "phone": 9765130460,
-      "address": "Sakri Road, Dhule.\nSonchapha"
-    },
-    {
-      "id": "77ed",
-      "firstName": "parag",
-      "lastName": "mahale",
-      "email": "parag@gmail.com",
-      "phone": 9569707099,
-      "address": "Pune, MH"
-    },
-    {
       "id": "d35c",
       "firstName": "Rohit ",
       "lastName": "Sharma",
       "email": "rohit@gmail.com",
-      "phone": 9568790709,
+      "phone": 7268790709,
       "address": "Mumbai, MH"
     },
     {
@@ -29,7 +13,7 @@
       "firstName": "Virat",
       "lastName": "Kohli",
       "email": "virat@gmail.com",
-      "phone": 945860799,
+      "phone": 8645860799,
       "address": "Mumbai, MH"
     },
     {
@@ -37,56 +21,16 @@
       "firstName": "Tony ",
       "lastName": "Stark",
       "email": "tony@gmail.com",
-      "phone": 9587097999,
-      "address": "Washington, USA"
-    },
-    {
-      "id": "12ba",
-      "firstName": "Peter",
-      "lastName": "Park",
-      "email": "peter@yahoo.com",
-      "phone": "9998877778",
+      "phone": 9887097999,
       "address": "USA"
     },
     {
-      "id": "5fff",
-      "firstName": "parag",
-      "lastName": "mahale",
-      "email": "manishmahale3@gmail.com",
-      "phone": "9765130460",
-      "address": "Sakri Road, Dhule.\nSonchapha"
-    },
-    {
-      "id": "84c1",
-      "firstName": "batman",
-      "lastName": "batman 123",
-      "email": "bat@gmail.com",
-      "phone": "8969665577",
-      "address": "USA"
-    },
-    {
-      "id": "4b63",
+      "id": "1f19",
       "firstName": "Ashutosh",
       "lastName": "Rode",
       "email": "arode1999@gmail.com",
       "phone": "7276044860",
       "address": "Bajirao Nagar"
-    },
-    {
-      "id": "d85a",
-      "firstName": "Ashutosh",
-      "lastName": "Rode",
-      "email": "arode1999@gmail.com",
-      "phone": "7276044860",
-      "address": "Bajirao Nagar"
-    },
-    {
-      "id": "a963",
-      "firstName": "Mamta",
-      "lastName": "Rode",
-      "email": "arode1999@gmail.com",
-      "phone": "7276044860",
-      "address": "Nashik"
     }
   ]
 }

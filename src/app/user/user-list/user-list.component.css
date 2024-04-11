@@ -12,3 +12,13 @@
     border-radius: 100px;
 }
   
+.list-title{
+    color: rgb(134, 14, 247);
+}
+table thead th{
+    color: rgb(135, 73, 194);
+}
+#edit{
+    background-color: rgb(178, 110, 242);
+    color:white;
+}
