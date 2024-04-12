@@ -10,13 +10,13 @@
     </div>
   </div>
   <div class="user-box">
-   
+
     <form class="border rounded shadow p-3 form" [formGroup]="userForm">
-      
+
       <div class="user-title">
-          <h2>Add User Details</h2>
-        </div>
-        <div class="mb-2">
+        <h2>Add User Details</h2>
+      </div>
+      <div class="mb-2">
         <label class="form-label">First Name</label>
         <input type="text" class="form-control" id="firstname" formControlName="firstName" aria-describedby="emailHelp">
         <div *ngIf="getFormFieldErrors('firstName')?.['required']" class="red-font">
@@ -57,7 +57,7 @@
           Maximum length should be of 10 digits
         </div>
       </div>
-      <div class ="user-button">
+      <div class="user-button">
         <button type="submit" class="btn btn-success" (click)="onSubmit()" [disabled]="userForm.invalid">Submit</button>
         <button type="submit" class="btn btn-dark" (click)="goToList()">Go Back</button>
       </div>
