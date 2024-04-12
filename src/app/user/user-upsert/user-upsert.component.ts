@@ -42,17 +42,19 @@ export class UserUpsertComponent implements OnInit {
         if(res){
         }
       })
-      this.showToast = true;
+      this.showToast = false;
     }
 
     this.updateUserData(this.userToEdit.id, {...this.userToEdit,...this.userForm.value})
     this.router.navigate(['/user-list'])
   }
 
-  getFormFieldErrors(formControl: string){
+  getFormFieldErrors(formControl: string)
+  {
     return this.userForm.get(formControl)?.errors
-  }
-
+  } 
+    
+  
   getAllUsers(){
     this.service.getData().subscribe((res)=> {
       if(res){
