@@ -5,15 +5,15 @@
       "firstName": "Rohit ",
       "lastName": "Sharma",
       "email": "rohit@gmail.com",
-      "phone": 7268790709,
+      "phone": "7268790709",
       "address": "Mumbai, MH"
     },
     {
       "id": "357f",
       "firstName": "Virat",
       "lastName": "Kohli",
-      "email": "virat@gmail.com",
-      "phone": 8645860799,
+      "email": "virat0510@gmail.com",
+      "phone": "8645860799",
       "address": "Mumbai, MH"
     },
     {
@@ -21,7 +21,7 @@
       "firstName": "Tony ",
       "lastName": "Stark",
       "email": "tony@gmail.com",
-      "phone": 9887097999,
+      "phone": "9887097999",
       "address": "USA"
     },
     {
@@ -31,6 +31,22 @@
       "email": "arode1999@gmail.com",
       "phone": "7276044860",
       "address": "Bajirao Nagar"
+    },
+    {
+      "id": "a735",
+      "firstName": "Allu",
+      "lastName": "Arjun",
+      "email": "pushpa@gmail.com",
+      "phone": "7815427942",
+      "address": "Hyderabad"
+    },
+    {
+      "id": "705d",
+      "firstName": "Shahid",
+      "lastName": "Kapoor",
+      "email": "shahid20@gmail.com",
+      "phone": "7545445412",
+      "address": "Mumbai, MH"
     }
   ]
 }
