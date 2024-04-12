@@ -47,6 +47,14 @@
       "email": "shahid20@gmail.com",
       "phone": "7545445416",
       "address": "Mumbai, MH"
+    },
+    {
+      "id": "29f0",
+      "firstName": "kunal",
+      "lastName": "Rode",
+      "email": "kunal@gmail.com",
+      "phone": "7276044855",
+      "address": "yeola"
     }
   ]
 }

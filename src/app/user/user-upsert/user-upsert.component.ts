@@ -40,6 +40,8 @@ export class UserUpsertComponent implements OnInit {
     }else{
       this.service.addData(this.userForm.value).subscribe((res)=>{
         if(res){
+          this.msg = 'user added successfully'
+          this.showToast = true;
         }
       })
       this.showToast = false;
